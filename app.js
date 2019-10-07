@@ -1,6 +1,8 @@
 'use strict';
 
 const fs = require('fs');
+require('./lib/logger');
+require('./lib/event')
 
 const alterFile = (file) => {
   fs.readFile( file, (err, data) => {
@@ -9,6 +11,7 @@ const alterFile = (file) => {
     fs.writeFile( file, Buffer.from(text), (err, data) => {
       if(err) { throw err; }
       console.log(`${file} saved`);
+      // Start here: replace log with emit/on
     });
   });
 };

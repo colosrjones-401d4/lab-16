@@ -17,6 +17,7 @@ exports.readFile = (file, cb) => {
   delay(cb, undefined, written[file] || Buffer.from(`${file} Contents`));
 };
 
+// refacto
 exports.writeFile = (file, buffer, cb) => {
   if (typeof file !== 'string') {
     throw TypeError('"file" must be a string');
