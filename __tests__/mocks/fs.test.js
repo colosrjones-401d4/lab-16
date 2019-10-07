@@ -4,6 +4,7 @@ jest.mock('fs');
 
 const fs = require('fs');
 
+// 10 tests below 
 describe('mock fs', () => {
   describe('writeFile', () => {
     it('throws if file is not a string', () => {
