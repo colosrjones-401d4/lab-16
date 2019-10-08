@@ -5,7 +5,7 @@
 # Event-Driven Smart App
 
 ### Links and Resources
-* [submission PR]() 
+* [submission PR](https://github.com/colosrjones-401d4/lab-16/pull/1) 
 
 * [travis]([![Build Status](https://www.travis-ci.com)](https://www.travis-ci.com))
 
