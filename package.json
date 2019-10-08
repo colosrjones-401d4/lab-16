@@ -10,5 +10,17 @@
   "license": "MIT",
   "dependencies": {
     "jest": "^24.8.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colosrjones-401d4/lab-16.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colosrjones-401d4/lab-16/issues"
+  },
+  "homepage": "https://github.com/colosrjones-401d4/lab-16#readme"
 }
