@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/colosrjones-401d4/lab-16/pull/1) 
 
-* [travis]([![Build Status](https://www.travis-ci.com)](https://www.travis-ci.com))
+* [travis]([![Build Status](https://travis-ci.org/colosrjones-401d4/lab-16.svg?branch=master)](https://travis-ci.org/colosrjones-401d4/lab-16/builds/595109957))
 
 
 
